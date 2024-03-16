@@ -8,3 +8,6 @@ Universal Application Architecture on YouTube
 
 Click for Follow Along Document:
 https://excalidraw.com/#json=U5bSy4F0IBkKnzfKGgHIp,RKYhitknZb1lme7FXLUNDw
+
+
+[<img src="Universal Architecture.png">]()
