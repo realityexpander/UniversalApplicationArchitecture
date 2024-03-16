@@ -1,4 +1,4 @@
-# UniversalApplicationArchitecture
+# Universal Application Architecture
 Support document for YouTube video about the Universal Application Architecture
 
 Universal Application Architecture on YouTube
